@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "secret",
+  "type": "java.lang.String",
+  "description": "Clave que se usará para el acceso"
+}]}
